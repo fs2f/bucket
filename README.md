@@ -1,1 +1,1 @@
-a bunch of Xresources colorschemes
+a bunch of *hopefully* legible xresources colorschemes
