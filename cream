@@ -1,36 +1,27 @@
-! special
 *.foreground:   #605c53
 *.background:   #f4eee8
 *.cursorColor:  #605c53
 
-! black
 *.color0:       #302f2b
 *.color8:       #413f37
 
-! red
 *.color1:       #a55342
 *.color9:       #cc8266
 
-! green
 *.color2:       #949340
 *.color10:      #a38f61
 
-! yellow
 *.color3:       #ceb445
 *.color11:      #f6c86f
 
-! blue
 *.color4:       #5f9d7d
 *.color12:      #81be91
 
-! magenta
 *.color5:       #83738f
 *.color13:      #8e76f9
 
-! cyan
 *.color6:       #5e7a8d
 *.color14:      #8aa9be
 
-! white
 *.color7:       #545047
 *.color15:      #d9d3cd
